@@ -38,7 +38,7 @@ p.six {
 <h2>The border-width Property</h2>
 <p>This property specifies the width of the four borders:</p>
 
-<p class="one">Some text.</p>
+<p class="one">Satwick Sam.</p>
 <p class="two">Some text.</p>
 <p class="three">Some text.</p>
 <p class="four">Some text.</p>
