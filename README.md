@@ -45,6 +45,12 @@ p.six {
 <p class="five">Some text.</p>
 <p class="six">Some text.</p>
 
+<ul>
+  <li><a href="#home">Home</a></li>
+  <li><a href="#news">News</a></li>
+  <li><a href="#contact">Contact</a></li>
+  <li><a href="#about">About</a></li>
+</ul>
 <p><b>Note:</b> The "border-width" property does not work if it is used alone. 
 Always specify the "border-style" property to set the borders first.</p>
 
